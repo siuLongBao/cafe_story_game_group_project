@@ -16,8 +16,6 @@ Players step into the shoes of a cafe worker, tasked with assembling and deliver
 - Filling cups with coffee and serving them to customers.
 - Efficiently managing time to maximize order fulfillment before the clock runs out.
 
-The game is structured to increase in difficulty as the player progresses, introducing more complex orders and faster-paced challenges.
-
 ## Development Tools and Assets
 
 Our team utilized Unity, a powerful and versatile game development platform, to bring Cafe Story to life. We leveraged a selection of free assets from the Unity Asset Store to enhance the visual and functional aspects of the game. These assets played a pivotal role in creating an immersive and visually appealing environment for the players.
