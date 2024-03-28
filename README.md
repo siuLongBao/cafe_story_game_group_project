@@ -1,5 +1,9 @@
 # Cafe Story Game Project Summary
 
+## Project Dates:
+Project start month: August 2023 \
+Project end month: Oct 2023
+
 ## Introduction
 
 Cafe Story is an exhilarating and interactive game developed by our dedicated team, inspired by the fast-paced and fun dynamics of popular cooking games like Overcooked. In Cafe Story, players dive into the bustling world of a cafe, striving to fulfill a variety of food and drink orders within a limited timeframe. The gameplay is designed to test players' time management and multitasking skills, offering an engaging and challenging experience.
