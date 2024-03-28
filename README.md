@@ -2,7 +2,7 @@
 
 ## Project Dates:
 Project start month: August 2023 \
-Project end month: Oct 2023
+Project end month: October 2023
 
 ## Introduction
 
